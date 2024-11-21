@@ -4,10 +4,10 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Chencs Docs',
+      title: 'Chencs Pages',
       description: 'Personal documentation and knowledge base',
       social: {
-        github: 'https://github.com/nicechencs/starlight',
+        github: 'https://github.com/nicechencs',
       },
       sidebar: [
         {
