@@ -1,0 +1,24 @@
+/* 自定义样式 */
+:root {
+  --sl-color-accent-low: #1e293b;
+  --sl-color-accent: #3b82f6;
+  --sl-color-accent-high: #dbeafe;
+}
+
+/* 优化代码块样式 */
+.astro-code {
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+/* 优化链接样式 */
+a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+/* 优化标题样式 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.3;
+}

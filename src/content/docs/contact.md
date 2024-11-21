@@ -1,14 +1,22 @@
 ---
-title: 联系我
-description: 如何联系我
+title: Contact Me
+description: How to get in touch with me
 ---
 
-## 联系方式
+## Contact Information
 
-您可以通过以下方式联系到我：
+Feel free to reach out to me through any of the following channels:
 
+- **Personal Website**: [chencs.net](https://chencs.net)
 - **GitHub**: [nicechencs](https://github.com/nicechencs)
 - **Email**: nicechencs@gmail.com
-- **Blog**: [Chencs Docs](https://keen-longma-a9ee0e.netlify.app)
 
-欢迎通过以上任何方式与我交流！
+## Connect With Me
+
+I'm always open to:
+- Technical discussions
+- Collaboration opportunities
+- Questions about my projects
+- Feedback and suggestions
+
+Don't hesitate to get in touch if you have any questions or just want to say hello!
